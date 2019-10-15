@@ -5,7 +5,7 @@ Dates Calculator
   
  ### Step 1 : ADD Dependency
     dependencies {
-        implementation 'com.github.shivanshshrotriya:Shapes:v1.1'
+        implementation 'com.github.shivanshshrotriya:Date:v1.0'
       }
 
      allprojects {
